@@ -162,7 +162,7 @@ export default function Home() {
               <span>LeedsHack</span>
             </h3>
             <h4 className="text-lg sm:text-xl font-semibold mb-2 ml-0 sm:ml-[112px]">Co-founder and Experience Lead (Jun 2024 - Present)</h4>
-            <p className="mb-2 text-lg sm:text-xl ml-0 sm:ml-[112px]">I co-founded LeedsHack, the student hackathon at the University of Leeds, running our first event in February 2025 and currently organising our second in February 2026. I liaised with sponsors to help secure £9.5k in funding and coordinated all sponsor-led challenges on the day of the event, as well as successfully managing ticketing, scheduling, communications, and welfare for 85 participants.</p>
+            <p className="mb-2 text-lg sm:text-xl ml-0 sm:ml-[112px]">I co-founded LeedsHack, the student hackathon at the University of Leeds, running our first event in February 2025 and our second in February 2026. I liaised with sponsors to help secure £17.5k in funding across the years and coordinated all sponsor-led challenges on the day of the event, as well as successfully managing logistics, ticketing, scheduling, communications, and welfare for 170 participants this year.</p>
           </div>
           
         </>
@@ -205,6 +205,8 @@ export default function Home() {
           <>
           <div className="mb-2">
           <ul className="list-disc list-outside text-lg sm:text-2xl pl-6">
+            <li className="text-lg sm:text-xl mt-2">Dissertation on semi-mechanistic models for personalised digital twin simulation of the menstrual cycle using Python. Designed and evaluated a hybrid model combining Gaussian curves with Bayesian prediction, achieving competitive accuracy and high personalisability on a small public dataset.</li>
+            <li className="text-lg sm:text-xl mt-2"><a className="underline" href="https://github.com/mirandamaygough/urban-greenspace-api" target="_blank" rel="noopener noreferrer">API and web application for exploring and visualising urban greenspace datasets using Python, FastAPI, and React.</a></li>
             <li className="text-lg sm:text-xl mt-2">Online game for navigating the UK public transport system using React, Flask, GeoPy and the Google Maps API</li>
             <li className="text-lg sm:text-xl mt-2"><a className="underline" href="https://github.com/mirandamaygough/xv6-shell" target="_blank" rel="noopener noreferrer">Shell for the xv6 operating system written entirely from scratch in C</a></li>
             <li className="text-lg sm:text-xl mt-2"><a className="underline" href="https://github.com/mirandamaygough/wikipedia-bias-classifier" target="_blank" rel="noopener noreferrer">Sentiment analysis pipeline to detect bias in multilingual Wikipedia articles using Python and NLTK</a></li>
